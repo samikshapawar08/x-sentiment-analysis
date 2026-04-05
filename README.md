@@ -140,13 +140,15 @@ git clone https://github.com/samikshapawar08/x-sentiment-analysis.git
 
 ## 🔮 Future Improvements
 
-* Advanced NLP (BERT, LSTM)
+## 🔮 Future Improvements
 
-* Real-time analysis
+*  Implement advanced NLP models such as BERT and LSTM for improved sentiment accuracy
   
-* Topic modeling
+*  Develop a real-time sentiment analysis pipeline using streaming data
   
-* UI/UX enhancements
+*   Perform topic modeling to uncover hidden themes in customer reviews
+    
+*  Build an interactive UI/dashboard for better user experience and visualization  
 
 ---
 
