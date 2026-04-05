@@ -27,7 +27,7 @@ It highlights my ability to:
 ## 🎨 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="800"/>
+  <img src="images/dashboardimage.png" width="800"/>
 </p>
 
 ---
